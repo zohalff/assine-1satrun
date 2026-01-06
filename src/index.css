@@ -1,0 +1,14 @@
+.badge {
+  display: inline-block;
+  margin: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #111;
+  color: #fff;
+  font-size: 14px;
+}
+
+.badge-label {
+  font-weight: bold;
+  margin-right: 6px;
+}
